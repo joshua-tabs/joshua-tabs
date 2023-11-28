@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshua-tabs, 20 years old.
 - 👀 I’m interested in learning code and Front-end Development.
-- 🌱 I’m currently learning C, Java, HTML5, and Javascript.
+- 🌱 I’m currently learning Java, Python, and DevOps.
 - 💞️ I’m looking to collaborate on Projects and Front-end Projects.
 - 📫 How to reach me joshuabrotaboso@gmail.com, @JoshuaTaboso on Twitter.
 
